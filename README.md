@@ -1,3 +1,3 @@
 ## Node-TypeScript
 
-Reference Resource [Setup TypeScript with NodeJS](https://ultimatecourses.com/blog/setup-typescript-nodejs-express)
+Reference: [Setup TypeScript with NodeJS](https://ultimatecourses.com/blog/setup-typescript-nodejs-express)
